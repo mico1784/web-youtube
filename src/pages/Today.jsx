@@ -3,7 +3,8 @@ import Main from '../components/section/Main'
 
 const Today = () => {
   return (
-    <Main>Today</Main>
+    <Main title="Today" description="For tonight, we dine in hell!
+">Today</Main>
   )
 }
 

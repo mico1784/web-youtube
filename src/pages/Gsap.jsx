@@ -3,7 +3,7 @@ import Main from '../components/section/Main'
 
 const Gsap = () => {
   return (
-    <Main>Gsap</Main>
+    <Main title="Gsap" description="이거 뭐임">Gsap</Main>
   )
 }
 

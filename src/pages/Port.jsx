@@ -3,7 +3,7 @@ import Main from '../components/section/Main'
 
 const Port = () => {
   return (
-     <Main>Port</Main>
+     <Main title="Port" description="포트폴리옹">Port</Main>
   )
 }
 

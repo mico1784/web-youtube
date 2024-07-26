@@ -3,7 +3,7 @@ import Main from '../components/section/Main'
 
 const Website = () => {
   return (
-    <Main>Website</Main>
+    <Main title="Website" description="사이트">Website</Main>
   )
 }
 
