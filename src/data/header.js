@@ -27,19 +27,19 @@ export const headerMenus = [
        src:"/music"
     },
     {
-       title: "웹디자인",
+       title: "추천 영화",
        icon:<MdOutlineWebAsset />,
-       src:"/webd"
+       src:"/movie"
     },
     {
-       title: "GSAP",
+        title: "추천 도서",
+        icon:<MdOutlinePortrait />,
+        src:"/book"
+     },
+    {
+       title: "추천 애니",
        icon:<MdOutlineSettingsApplications />,
-       src:"/gsap"
-    },
-    {
-       title: "포트폴리오 사이트",
-       icon:<MdOutlinePortrait />,
-       src:"/port"
+       src:"/anime"
     },
     {
        title: "유튜브 사이트",
